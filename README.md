@@ -1,3 +1,4 @@
 # Intro
 
-BME 547 Repo
+https://github.com/ajayvaradhan/Intro
+https://github.com/ryhastings/Intro
